@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/styles/main.css">
+</head>
+
+<body>
+    <main>
+        <header class="header-container">
+            <h1>тестовое задание</h1>
+        </header>
+        <section class="modal-container">
+            <div class="__content"></div>
+        </section>
+        <section class="reviews-container"></section>
+        <section class="cart-container">
+            <header class="__header">
+                <h2>Добавленные товары</h2>
+            </header>
+            <div id="cart-items" class="__content"></div>
+            <footer class="__footer">
+                <input id="phone-number-input" type="text" name="" placeholder="+7 (___) ___ __-__" value="">
+                <button id="order-button">заказать</button>
+            </footer>
+        </section>
+        <section class="product-cards-container">
+            <% for (const item of items) { %>
+                <article class="product-card" data-id="<%= item.id %>">
+                    <header class="__header">
+                        <img class="__header-image" src="<%= item.image_url %>" alt="">
+                    </header>
+                    <div class="__content">
+                        <div class="__content-top">
+                            <div id="product-name" class="__content-title">
+                                <%= item.title %>
+                            </div>
+                            <span class="__content-description"><%= item.description %></span>
+                        </div>
+                        <div class="__content-bottom">
+                            <div class="__content-price">
+                                <span>цена: </span>
+                                <span id="product-price"><%= item.price + " ₽" %></span>
+                            </div>
+                        </div>
+                    </div>
+                    <footer class="__footer">
+                        <div id="buy-button-container" class="button-container">
+                            <button data-action="buy">купить</button>
+                        </div>
+                        <div id="quantity-input-container" class="button-container button-container--hide">
+                            <button id="minus-button" data-action="minus">-</button>
+                            <input id="quantity-input" type="number" name="" placeholder="" value="1">
+                            <button id="plus-button" data-action="plus">+</button>
+                        </div>
+                    </footer>
+                </article>
+                <% } %>
+        </section>
+        <div id="sentinel"></div>
+    </main>
+    <script src="/js/main.js"></script>
+</body>
+
+</html>

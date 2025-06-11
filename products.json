@@ -1,0 +1,281 @@
+[{
+        "id": 1,
+        "image_url": "https://placehold.co/400x300/EEE/31343C?font=raleway&text=Product+1",
+        "title": "Bose Смартфон Premium",
+        "description": "Отличный мультимедийный продукт с отличной производительностью",
+        "price": 49294
+    },
+    {
+        "id": 2,
+        "image_url": "https://picsum.photos/400/300?random=2",
+        "title": "Huawei Телевизор Pro",
+        "description": "Отличный технический продукт с отличной производительностью",
+        "price": 30651
+    },
+    {
+        "id": 3,
+        "image_url": "https://picsum.photos/400/300?random=3",
+        "title": "Huawei Планшет Max",
+        "description": "Отличный мультимедийный продукт с высокой производительностью",
+        "price": 37244
+    },
+    {
+        "id": 4,
+        "image_url": "https://placehold.co/400x300/EEE/31343C?font=raleway&text=Product+4",
+        "title": "Sony Телевизор Lite",
+        "description": "Отличный электронный продукт с высокой производительностью",
+        "price": 28135
+    },
+    {
+        "id": 5,
+        "image_url": "https://picsum.photos/400/300?random=5",
+        "title": "LG Смартфон Max",
+        "description": "Отличный электронный продукт с высокой производительностью",
+        "price": 5279
+    },
+    {
+        "id": 6,
+        "image_url": "https://dummyimage.com/400x300/cccccc/000000&text=Product+6",
+        "title": "Huawei Часы Max",
+        "description": "Отличный мультимедийный продукт с хорошей производительностью",
+        "price": 39537
+    },
+    {
+        "id": 7,
+        "image_url": "https://placehold.co/400x300/EEE/31343C?font=raleway&text=Product+7",
+        "title": "Bose Ноутбук Premium",
+        "description": "Отличный мультимедийный продукт с отличной производительностью",
+        "price": 25743
+    },
+    {
+        "id": 8,
+        "image_url": "https://placehold.co/400x300/EEE/31343C?font=raleway&text=Product+8",
+        "title": "Sony Смартфон Premium",
+        "description": "Отличный мультимедийный продукт с высокой производительностью",
+        "price": 1213
+    },
+    {
+        "id": 9,
+        "image_url": "https://placehold.co/400x300/EEE/31343C?font=raleway&text=Product+9",
+        "title": "Huawei Телевизор Premium",
+        "description": "Отличный электронный продукт с хорошей производительностью",
+        "price": 32007
+    },
+    {
+        "id": 10,
+        "image_url": "https://placehold.co/400x300/EEE/31343C?font=raleway&text=Product+10",
+        "title": "Bose Часы Pro",
+        "description": "Отличный электронный продукт с хорошей производительностью",
+        "price": 25842
+    },
+    {
+        "id": 11,
+        "image_url": "https://picsum.photos/400/300?random=11",
+        "title": "Bose Ноутбук Max",
+        "description": "Отличный технический продукт с отличной производительностью",
+        "price": 24048
+    },
+    {
+        "id": 12,
+        "image_url": "https://placehold.co/400x300/EEE/31343C?font=raleway&text=Product+12",
+        "title": "Huawei Смартфон Lite",
+        "description": "Отличный технический продукт с высокой производительностью",
+        "price": 26446
+    },
+    {
+        "id": 13,
+        "image_url": "https://dummyimage.com/400x300/cccccc/000000&text=Product+13",
+        "title": "Sony Часы Lite",
+        "description": "Отличный мультимедийный продукт с отличной производительностью",
+        "price": 34259
+    },
+    {
+        "id": 14,
+        "image_url": "https://picsum.photos/400/300?random=14",
+        "title": "Huawei Телевизор Premium",
+        "description": "Отличный технический продукт с хорошей производительностью",
+        "price": 46312
+    },
+    {
+        "id": 15,
+        "image_url": "https://placehold.co/400x300/EEE/31343C?font=raleway&text=Product+15",
+        "title": "Xiaomi Телевизор Lite",
+        "description": "Отличный мультимедийный продукт с высокой производительностью",
+        "price": 35816
+    },
+    {
+        "id": 16,
+        "image_url": "https://picsum.photos/400/300?random=16",
+        "title": "Bose Фотоаппарат Lite",
+        "description": "Отличный мультимедийный продукт с отличной производительностью",
+        "price": 42077
+    },
+    {
+        "id": 17,
+        "image_url": "https://placehold.co/400x300/EEE/31343C?font=raleway&text=Product+17",
+        "title": "LG Наушники Premium",
+        "description": "Отличный мультимедийный продукт с отличной производительностью",
+        "price": 24821
+    },
+    {
+        "id": 18,
+        "image_url": "https://placehold.co/400x300/EEE/31343C?font=raleway&text=Product+18",
+        "title": "Samsung Наушники Lite",
+        "description": "Отличный электронный продукт с высокой производительностью",
+        "price": 13277
+    },
+    {
+        "id": 19,
+        "image_url": "https://placehold.co/400x300/EEE/31343C?font=raleway&text=Product+19",
+        "title": "Xiaomi Смартфон Lite",
+        "description": "Отличный технический продукт с отличной производительностью",
+        "price": 15215
+    },
+    {
+        "id": 20,
+        "image_url": "https://dummyimage.com/400x300/cccccc/000000&text=Product+20",
+        "title": "Bose Часы Pro",
+        "description": "Отличный мультимедийный продукт с хорошей производительностью",
+        "price": 4566
+    },
+    {
+        "id": 21,
+        "image_url": "https://picsum.photos/400/300?random=21",
+        "title": "Apple Смартфон Pro",
+        "description": "Отличный мультимедийный продукт с высокой производительностью",
+        "price": 38942
+    },
+    {
+        "id": 22,
+        "image_url": "https://placehold.co/400x300/EEE/31343C?font=raleway&text=Product+22",
+        "title": "Samsung Планшет Max",
+        "description": "Отличный электронный продукт с отличной производительностью",
+        "price": 27415
+    },
+    {
+        "id": 23,
+        "image_url": "https://dummyimage.com/400x300/cccccc/000000&text=Product+23",
+        "title": "Xiaomi Ноутбук Lite",
+        "description": "Отличный технический продукт с хорошей производительностью",
+        "price": 16238
+    },
+    {
+        "id": 24,
+        "image_url": "https://picsum.photos/400/300?random=24",
+        "title": "Sony Фотоаппарат Premium",
+        "description": "Отличный мультимедийный продукт с невероятной производительностью",
+        "price": 45827
+    },
+    {
+        "id": 25,
+        "image_url": "https://placehold.co/400x300/EEE/31343C?font=raleway&text=Product+25",
+        "title": "Huawei Телевизор Pro",
+        "description": "Отличный электронный продукт с высокой производительностью",
+        "price": 31794
+    },
+    {
+        "id": 26,
+        "image_url": "https://picsum.photos/400/300?random=26",
+        "title": "LG Наушники Max",
+        "description": "Отличный мультимедийный продукт с отличным звуком",
+        "price": 9473
+    },
+    {
+        "id": 27,
+        "image_url": "https://dummyimage.com/400x300/cccccc/000000&text=Product+27",
+        "title": "Canon Фотоаппарат Lite",
+        "description": "Отличный технический продукт с хорошей производительностью",
+        "price": 22356
+    },
+    {
+        "id": 28,
+        "image_url": "https://picsum.photos/400/300?random=28",
+        "title": "Bose Наушники Premium",
+        "description": "Отличный мультимедийный продукт с качественным звуком",
+        "price": 27834
+    },
+    {
+        "id": 29,
+        "image_url": "https://placehold.co/400x300/EEE/31343C?font=raleway&text=Product+29",
+        "title": "Samsung Смартфон Lite",
+        "description": "Отличный электронный продукт с хорошей производительностью",
+        "price": 18547
+    },
+    {
+        "id": 30,
+        "image_url": "https://picsum.photos/400/300?random=30",
+        "title": "Xiaomi Планшет Premium",
+        "description": "Отличный мультимедийный продукт с отличной производительностью",
+        "price": 40981
+    },
+    {
+        "id": 31,
+        "image_url": "https://dummyimage.com/400x300/cccccc/000000&text=Product+31",
+        "title": "Sony Ноутбук Pro",
+        "description": "Отличный технический продукт с высокой производительностью",
+        "price": 35219
+    },
+    {
+        "id": 32,
+        "image_url": "https://placehold.co/400x300/EEE/31343C?font=raleway&text=Product+32",
+        "title": "Apple Часы Max",
+        "description": "Отличный мультимедийный продукт с длительным временем работы",
+        "price": 21907
+    },
+    {
+        "id": 33,
+        "image_url": "https://picsum.photos/400/300?random=33",
+        "title": "Huawei Смартфон Premium",
+        "description": "Отличный электронный продукт с потрясающей производительностью",
+        "price": 44356
+    },
+    {
+        "id": 34,
+        "image_url": "https://dummyimage.com/400x300/cccccc/000000&text=Product+34",
+        "title": "LG Телевизор Lite",
+        "description": "Отличный мультимедийный продукт с хорошей картинкой",
+        "price": 28104
+    },
+    {
+        "id": 35,
+        "image_url": "https://picsum.photos/400/300?random=35",
+        "title": "Canon Ноутбук Premium",
+        "description": "Отличный технический продукт с отличной производительностью",
+        "price": 32988
+    },
+    {
+        "id": 36,
+        "image_url": "https://placehold.co/400x300/EEE/31343C?font=raleway&text=Product+36",
+        "title": "Xiaomi Фотоаппарат Pro",
+        "description": "Отличный мультимедийный продукт с высокой производительностью",
+        "price": 38654
+    },
+    {
+        "id": 37,
+        "image_url": "https://picsum.photos/400/300?random=37",
+        "title": "Samsung Наушники Lite",
+        "description": "Отличный электронный продукт с хорошим звуком",
+        "price": 14392
+    },
+    {
+        "id": 38,
+        "image_url": "https://dummyimage.com/400x300/cccccc/000000&text=Product+38",
+        "title": "Bose Смартфон Max",
+        "description": "Отличный мультимедийный продукт с отличной производительностью",
+        "price": 39521
+    },
+    {
+        "id": 39,
+        "image_url": "https://picsum.photos/400/300?random=39",
+        "title": "Sony Планшет Pro",
+        "description": "Отличный электронный продукт с высокой производительностью",
+        "price": 30217
+    },
+    {
+        "id": 40,
+        "image_url": "https://placehold.co/400x300/EEE/31343C?font=raleway&text=Product+40",
+        "title": "LG Ноутбук Lite",
+        "description": "Отличный технический продукт с хорошей производительностью",
+        "price": 27463
+    }
+]
